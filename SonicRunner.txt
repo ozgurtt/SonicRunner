@@ -1,0 +1,4 @@
+Sonic Runner
+
+Sonic has to run through the dark world to save his life.
+Touch any where on the screen to jump or press space bar to jump
